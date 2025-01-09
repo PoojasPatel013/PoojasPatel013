@@ -1,6 +1,6 @@
 ## Hi there 👋
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/736x/01/db/70/01db701b2b6300addd00e961a657c021.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/1200x/af/34/0f/af340f682940be93a688853d8d9b927f.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/736x/02/90/dd/0290dd1bc62330d21a37170495344b80.jpg">
   <img alt="Icon" src="https://i.pinimg.com/1200x/af/34/0f/af340f682940be93a688853d8d9b927f.jpg">
 </picture>
