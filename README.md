@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey I'm Pooja 👋
 I am a undergraduate computer science student, working on multiple projects for hands-on experience,
 And NCC cadet- youngest uniformed organization.
 I write poems and stories in my free time.
