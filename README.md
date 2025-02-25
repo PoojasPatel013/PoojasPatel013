@@ -1,4 +1,4 @@
-Hi 👋 I'm Pooja
+## Hi 👋 I'm Pooja
 
 🎓 I'm an undergraduate Computer Science student, actively working on multiple projects to gain hands-on experience.
 
