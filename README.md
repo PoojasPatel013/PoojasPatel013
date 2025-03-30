@@ -17,7 +17,7 @@
 
  </p>
 
-💻 Programming: Node.JS, JavaScript, Java, HTML5, CSS3, MongoDB  
+💻 Programming: Node.JS, JavaScript, Java, HTML5, CSS3, MongoDB, React, Tailwind, Angular
 😶‍🌬️ Azure, GCP Google Cloud, AWS  
 📚 Writing & Editing: Creative Writing, Proofreading, Storytelling  
 
