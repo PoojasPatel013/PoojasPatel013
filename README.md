@@ -27,7 +27,8 @@
 
 ### 🌍 Connect with Me
 
-📧 Email: poojaspatel013@gmail.com
+📧 Email: poojaspatel1375@gmail.com
+
 
 ---
 
