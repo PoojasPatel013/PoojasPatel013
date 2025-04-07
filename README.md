@@ -50,4 +50,7 @@
 >
 > — Ernest Hemingway
 
-Work hard, have fun and make History!!
+> Work hard, have fun and make History!!
+
+Forgot to mention, I am a published Author, my books are available on Amazon and shipped worldwide!!
+Do check out my poetry book, available next month.
