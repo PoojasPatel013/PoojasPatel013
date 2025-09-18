@@ -40,12 +40,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-![Pooja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PoojasPatel013&show_icons=true&theme=radical)
-
-
----
-
 > "The world breaks everyone, and afterward, some are strongest at the broken places."
 >
 > — Ernest Hemingway
