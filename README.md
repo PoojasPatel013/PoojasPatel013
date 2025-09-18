@@ -19,7 +19,7 @@
 
 💻 Programming: Node.JS, JavaScript, Java, HTML5, CSS3, MongoDB, React, Tailwind, Angular
 
-😶‍🌬️ Azure, GCP Google Cloud, AWS  
+😶‍🌬️ GCP Google Cloud, AWS, Jira, Trello, Clickup, Asana
 
 📚 Writing & Editing: Creative Writing, Proofreading, Storytelling  
 
