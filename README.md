@@ -31,9 +31,8 @@
 
 ### 💙 Support Me
 
-If you’d like to support my work, you can [**buy me a coffee on Ko-fi**](https://ko-fi.com/Z8Z11MLUSG)!
+If you’d like to support my work, you can [**buy me a coffee on Ko-fi**](https://buymeacoffee.com/ltpoojapatu)!
 
-[![ko-fi](https://storage.ko-fi.com/cdn/kofi2.png)](https://ko-fi.com/Z8Z11MLUSG)
 
 ---
 
