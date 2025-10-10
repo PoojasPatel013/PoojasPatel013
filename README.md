@@ -29,6 +29,7 @@
 
 📧 Email: poojaspatel1375@gmail.com
 
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a coffee', '#72a4f2', 'Z8Z11MLUSG');kofiwidget2.draw();</script> 
 
 ---
 
