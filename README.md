@@ -28,9 +28,13 @@
 ### 🌍 Connect with Me
 
 📧 Email: poojaspatel1375@gmail.com
-<p>
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a coffee', '#72a4f2', 'Z8Z11MLUSG');kofiwidget2.draw();</script> 
-</p>
+
+### 💙 Support Me
+
+If you’d like to support my work, you can [**buy me a coffee on Ko-fi**](https://ko-fi.com/Z8Z11MLUSG)!
+
+[![ko-fi](https://storage.ko-fi.com/cdn/kofi2.png)](https://ko-fi.com/Z8Z11MLUSG)
+
 ---
 
 <picture>
