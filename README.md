@@ -31,7 +31,7 @@
 
 ### 💙 Support Me
 
-If you’d like to support my work, you can <a href="https://www.buymeacoffee.com/ltpoojapatu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>! :)  
+If you’d like to support my work, you can <a href="https://www.buymeacoffee.com/pooja.p" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>! :)  
 
 
 ---
