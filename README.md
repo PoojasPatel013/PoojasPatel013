@@ -2,7 +2,11 @@
 
 🎓 I'm actively working on multiple projects to gain more and more knowledge.
 
-✍️ I write poems and stories in my free time, and I love proof-reading and learning new words to expand my vocabulary.
+✍️ I write poems and stories in my free time, and I love proofreading and learning new words to expand my vocabulary.
+
+😶‍🌫️ I generally work on Clouds, Google SDK, Vertex AI, and Machine Learning
+
+(●'◡'●) I am contributing to open source!
 
 ---
 
@@ -14,12 +18,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="" /></a> <a href="https://www.trello.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" width="36" height="36" alt="Trello" /></a>
 
  </p>
-
-💻 Programming: Node.JS, JavaScript, Java, HTML5, CSS3, MongoDB, React, Tailwind, Angular
-
-😶‍🌬️ GCP Google Cloud, AWS, Jira, Trello, Clickup, Asana
-
-📚 Writing & Editing: Creative Writing, Proofreading, Storytelling  
 
 ---
 
@@ -46,7 +44,4 @@ If you’d like to support my work, you can <a href="https://www.buymeacoffee.co
 >
 > — Ernest Hemingway
 
-> Work hard, have fun and make History!!
-
-Forgot to mention, I am a published Author, my books are available on Amazon and shipped worldwide!!
-Do check out my poetry book <a href="https://www.amazon.in/Weight-empty-hands-sunflowers-spirit/dp/9369535055/ref=rvi_d_sccl_1/258-7183054-5306853?pd_rd_w=ex1ND&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=HJ98WF819X9ABA8V2C08&pd_rd_wg=DxYaH&pd_rd_r=197a23c2-ab8b-4b84-9698-b18c118da6f4&pd_rd_i=9369535055&psc=1"> Here </a>.
+> Work hard, have fun, and make History!!
