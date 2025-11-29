@@ -30,15 +30,6 @@
 If you’d like to support my work, you can <a href="https://www.buymeacoffee.com/pooja.p" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>! :)  
 
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/1200x/af/34/0f/af340f682940be93a688853d8d9b927f.jpg" width="150" >
-  <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/736x/02/90/dd/0290dd1bc62330d21a37170495344b80.jpg" width="150">
-  <img alt="Icon" src="https://i.pinimg.com/1200x/af/34/0f/af340f682940be93a688853d8d9b927f.jpg" width="150">
-</picture>
-
----
 
 > "The world breaks everyone, and afterward, some are strongest at the broken places."
 >
