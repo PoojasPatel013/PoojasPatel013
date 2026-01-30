@@ -4,7 +4,7 @@
 
 ✍️ I write poems and stories in my free time, and I love proofreading and learning new words to expand my vocabulary.
 
-😶‍🌫️ I generally work on Clouds, Google SDK, Vertex AI, and Machine Learning
+😶‍🌫️ I generally work on Clouds, Google SDK, Vertex AI, and Applied Security.
 
 (●'◡'●) I am contributing to open source!
 
