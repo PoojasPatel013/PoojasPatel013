@@ -37,5 +37,3 @@ If you’d like to support my work, you can <a href="https://www.buymeacoffee.co
 
 > Work hard, have fun, and make History!!
 >
-> 
-![Profile Views](https://komarev.com/ghpvc/?username=PoojasPatel013&color=blueviolet&style=flat-square)
