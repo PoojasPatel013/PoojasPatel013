@@ -8,7 +8,7 @@
 
 (●'◡'●) I am contributing to open source!
 
-If you’d like to support my work, you can <a href="https://www.buymeacoffee.com/pooja.p" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>!:)  
+If you’d like to support my work, you can <a href="https://www.buymeacoffee.com/pooja.p" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"> 🎀 </a>  
 
 
 > "The world breaks everyone, and afterward, some are strongest at the broken places."
