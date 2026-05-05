@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Pooja
 
-🎓 I'm actively working on multiple projects to gain more and more knowledge.
+🎓 I'm actively working on multiple projects to upgrade my knowledge.
 
 ✍️ I write poems and stories in my free time, and I love proofreading and learning new words to expand my vocabulary.
 
